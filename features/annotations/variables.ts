@@ -3,7 +3,7 @@ let speed: string = 'fast';
 let isName: boolean = true;
 
 let nothing: null = null;
-
+import "../"
 // nothing = '555';
 
 let undif: undefined = undefined;
